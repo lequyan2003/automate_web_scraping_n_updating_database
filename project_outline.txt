@@ -1,0 +1,9 @@
+(project_folder/automate_web_scraping.py)
+
+# import packages
+
+# scrape the list of S&P 500 companies
+
+# save to local csv file
+
+# push symbol list to MongoDB
